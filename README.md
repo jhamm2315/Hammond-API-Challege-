@@ -1,14 +1,14 @@
-# Python API Project - What's the Weather Like?
+## Python API Project - What's the Weather Like?
 
-# Background
+## Background
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
-# Part I - WeatherPy
+## Part I - WeatherPy
 
-I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized [simple Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api)
+I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized [CityPy Python Library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api)
 
-To see my Python script, check jupyter notebook [here](https://github.com/kanamoore/python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb)
+To see my Python script, check jupyter notebook [here](https://github.com/jhamm2315/Hammond-API-Challege-/edit/main/Hammond-API-Challenge/python-api-challenge)
 
 ## Observation
 
@@ -64,28 +64,28 @@ There is a moderate positive correlation between latitude and max temperature fo
 
 - Northern Hemisphere - Humidity (%) vs. Latitude
 
-  ![n_humidity](<Images/Northern_Hemisphere_Humidity(%)_vs_Latitude_Linear_Regression.png>)
+  ![n_humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/NH%20City%20Lat%20vs%20Humidity%20.jpg>)
 
 The r-squared is : 0.47
 There is a moderate positive correlation between latitude and humidity for northern hemisphere.
 
 - Southern Hemisphere - Humidity (%) vs. Latitude
 
-  ![s_humidity](<Images/Southern_Hemisphere_Humidity(%)_vs_Latitude_Linear_Regression.png>)
+  ![s_humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/SH%20City%20Lat%20vs%20Humidity%20.jpg>)
 
 The r-squared is : 0.29
 There is a moderate positive correlation between latitude and humidity for southern hemisphere.
 
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![n_cloudiness](<Images/Northern_Hemisphere_Cloudiness(%)_vs_Latitude_Linear_Regression.png>)
+  ![n_cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/NH%20City%20lat%20vs%20Cloudiness%20.jpg>)
 
 The r-squared is : 0.23
 There is a weak positive correlation between latitude and cloudiness for northern hemisphere.
 
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![s_cloudiness](<Images/Southern_Hemisphere_Cloudiness(%)_vs_Latitude_Linear_Regression.png>)
+  ![s_cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/SH%20City%20Lat%20vs%20Cloudiness.jpg>)
 
 The r-squared is : 0.08
 There is a weak positive correlation between latitude and cloudiness for southern hemisphere.
@@ -104,14 +104,14 @@ There is a weak positive correlation between latitude and windspeed for northern
 The r-squared is : -0.24
 There is a weak negative correlation between latitude and wind speed for southern hemisphere.
 
-My final notebook must:
+## My final notebook must:
 
 - Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
 - Perform a weather check on each of the cities using a series of successive API calls.
 - Include a print log of each city as it's being processed with the city number and city name.
 - Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-# Part II - VacationPy
+## Part II - VacationPy
 
 Now I want to use my skills in working with weather data to plan future vacations. I used jupyter-gmaps and the Google Places API.
 
