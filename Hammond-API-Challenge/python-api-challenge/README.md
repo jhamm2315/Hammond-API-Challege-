@@ -64,28 +64,28 @@ There is a moderate positive correlation between latitude and max temperature fo
 
 - Northern Hemisphere - Humidity (%) vs. Latitude
 
-  ![n_humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Cloudiness_vs_Latitude_NorthernHemisphere.png>)
+  ![n_humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Humidity_vs_Latitude_NorthernHemisphere.png>)
 
 The r-squared is : 0.47
 There is a moderate positive correlation between latitude and humidity for northern hemisphere.
 
 - Southern Hemisphere - Humidity (%) vs. Latitude
 
-  ![s_humidity](<Images/Southern_Hemisphere_Humidity(%)_vs_Latitude_Linear_Regression.png>)
+  ![s_humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Humidity_vs_Latitude_SouthernHemisphere.png>)
 
 The r-squared is : 0.29
 There is a moderate positive correlation between latitude and humidity for southern hemisphere.
 
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![n_cloudiness](<Images/Northern_Hemisphere_Cloudiness(%)_vs_Latitude_Linear_Regression.png>)
+  ![n_cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Cloudiness_vs_Latitude_NorthernHemisphere.png>)
 
 The r-squared is : 0.23
 There is a weak positive correlation between latitude and cloudiness for northern hemisphere.
 
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![s_cloudiness](<Images/Southern_Hemisphere_Cloudiness(%)_vs_Latitude_Linear_Regression.png>)
+  ![s_cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Cloudiness_vs_Latitude_SouthernHemisphere.png>)
 
 The r-squared is : 0.08
 There is a weak positive correlation between latitude and cloudiness for southern hemisphere.
