@@ -64,7 +64,7 @@ There is a moderate positive correlation between latitude and max temperature fo
 
 - Northern Hemisphere - Humidity (%) vs. Latitude
 
-  ![n_humidity](<Cloudiness_vs_Latitude_NorthernHemisphere.png>)
+  ![n_humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Cloudiness_vs_Latitude_NorthernHemisphere.png>)
 
 The r-squared is : 0.47
 There is a moderate positive correlation between latitude and humidity for northern hemisphere.
