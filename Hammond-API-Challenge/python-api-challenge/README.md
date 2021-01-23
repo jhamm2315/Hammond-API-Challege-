@@ -1,12 +1,12 @@
-# Python API Project - What's the Weather Like?
+## Python API Project - What's the Weather Like?
 
-# Background
+## Background
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
-# Part I - WeatherPy
+## Part I - WeatherPy
 
-I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized [simple Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api)
+I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized [CityPy Python Library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api)
 
 To see my Python script, check jupyter notebook [here](https://github.com/jhamm2315/Hammond-API-Challege-/edit/main/Hammond-API-Challenge/python-api-challenge)
 
