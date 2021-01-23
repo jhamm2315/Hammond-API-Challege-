@@ -104,14 +104,14 @@ There is a weak positive correlation between latitude and windspeed for northern
 The r-squared is : -0.24
 There is a weak negative correlation between latitude and wind speed for southern hemisphere.
 
-My final notebook must:
+## My final notebook must:
 
 - Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
 - Perform a weather check on each of the cities using a series of successive API calls.
 - Include a print log of each city as it's being processed with the city number and city name.
 - Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-# Part II - VacationPy
+## Part II - VacationPy
 
 Now I want to use my skills in working with weather data to plan future vacations. I used jupyter-gmaps and the Google Places API.
 
