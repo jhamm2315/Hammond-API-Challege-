@@ -8,7 +8,7 @@ I created a Python script to visualize the weather of 500+ cities across the wor
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized [simple Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api)
 
-To see my Python script, check jupyter notebook [here](https://github.com/jhamm2315/Hammond-API-Challege-/edit/main/Hammond-API-Challenge/python-api-challenge/README.md.ipynb)
+To see my Python script, check jupyter notebook [here](https://github.com/jhamm2315/Hammond-API-Challege-/edit/main/Hammond-API-Challenge/python-api-challenge/README.md)
 
 ## Observation
 
