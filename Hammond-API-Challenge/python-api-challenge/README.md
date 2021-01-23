@@ -71,21 +71,21 @@ There is a moderate positive correlation between latitude and humidity for north
 
 - Southern Hemisphere - Humidity (%) vs. Latitude
 
-  ![s_humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Humidity_vs_Latitude_SouthernHemisphere.png>)
+  ![s_humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/SH%20City%20Lat%20vs%20Humidity%20.jpg>)
 
 The r-squared is : 0.29
 There is a moderate positive correlation between latitude and humidity for southern hemisphere.
 
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![n_cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Cloudiness_vs_Latitude_NorthernHemisphere.png>)
+  ![n_cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/NH%20City%20lat%20vs%20Cloudiness%20.jpg>)
 
 The r-squared is : 0.23
 There is a weak positive correlation between latitude and cloudiness for northern hemisphere.
 
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![s_cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Cloudiness_vs_Latitude_SouthernHemisphere.png>)
+  ![s_cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/SH%20City%20Lat%20vs%20Cloudiness.jpg>)
 
 The r-squared is : 0.08
 There is a weak positive correlation between latitude and cloudiness for southern hemisphere.
