@@ -30,19 +30,19 @@ My first objective is to build a series of scatter plots to showcase the followi
 
 - Humidity (%) vs. Latitude
 
-  ![humidity](Images/City_Latitude_vs_Humidity.png)
+  ![humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City_Latitude_vs_Humidity.png>)
 
 Polar regions have lower humidity and as latitude gets higher,humidity gets higher in southern hemisphere.
 
 - Cloudiness (%) vs. Latitude
 
-  ![cloudiness](Images/City_Latitude_vs_Cloudiness.png)
+  ![cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City_Latitude_vs_Cloudiness.png>)
 
 Cloudiness data is widely spread across the latitude.
 
 - Wind Speed (mph) vs. Latitude
 
-  ![wind](<Images/City_Latitude_vs_Wind_Speed(mph).png>)
+  ![wind](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City_Latitude_vs_Wind_Speed(mph).png>)
 
   Wind speed data is widely spread across the latitude.
 
@@ -50,14 +50,14 @@ My second objective is to run linear regression on each relationship, only this 
 
 - Northern Hemisphere - Temperature (F) vs. Latitude
 
-  ![n_temp](Images/Northern_Hemisphere_Max_Temp_Latitude_Linear_Regression.png)
+  ![n_temp](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/Northern_Hemisphere_Max_Temp_Latitude_Linear_Regression.png>)
 
 The r-squared is : -0.83
 There is a strong negative correlation between latitude and max temperature for northern hemisphere.
 
 - Southern Hemisphere - Temperature (F) vs. Latitude
 
-  ![s_temp](Images/Southern_Hemisphere_Max_Temp_vs_Latitude_Linear_Regression.png)
+  ![s_temp](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/Southern_Hemisphere_Max_Temp_vs_Latitude_Linear_Regression.png>)
 
 The r-squared is : 0.46
 There is a moderate positive correlation between latitude and max temperature for southern hemisphere.
@@ -92,14 +92,14 @@ There is a weak positive correlation between latitude and cloudiness for souther
 
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 
-  ![n_wind](Images/Northern_Hemisphere_Wind_Speed_vs_Latitude_Linear_Regression.png)
+  ![n_wind](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/Northern_Hemisphere_Wind_Speed_vs_Latitude_Linear_Regression.png>)
 
 The r-squared is : 0.1
 There is a weak positive correlation between latitude and windspeed for northern hemisphere.
 
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-  ![s_wind](Images/Southern_Hemisphere_Wind_Speed_vs_Latitude_Linear_Regression.png)
+  ![s_wind](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/Southern_Hemisphere_Wind_Speed_vs_Latitude_Linear_Regression.png>)
 
 The r-squared is : -0.24
 There is a weak negative correlation between latitude and wind speed for southern hemisphere.
@@ -117,7 +117,7 @@ Now I want to use my skills in working with weather data to plan future vacation
 
 - Create a heat map that displays the humidity for every city from the part I of the project.
 
-  ![heatmap](Images/Heatmap.png)
+  ![heatmap](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/Heatmap.PNG>)
 
 - Narrow down the DataFrame to find my ideal weather condition. For example:
 
