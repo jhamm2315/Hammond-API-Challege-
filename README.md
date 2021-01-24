@@ -24,7 +24,7 @@ My first objective is to build a series of scatter plots to showcase the followi
 
 - Temperature (F) vs. Latitude
 
-  ![temp](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City_Latitude_vs_Max_Temperature.png>)
+  ![temp](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/NH%20City%20Lat%20vs%20Max%20Temp%20.jpg>)
 
   Highest temperature is found at 0 latitude and as the latidude increases or decreases, temperature drops.
 
