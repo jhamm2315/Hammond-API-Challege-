@@ -30,19 +30,19 @@ My first objective is to build a series of scatter plots to showcase the followi
 
 - Humidity (%) vs. Latitude
 
-  ![humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City_Latitude_vs_Humidity.png>)
+  ![humidity](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City%20Lat%20vs%20Humidity%20.jpg>)
 
 Polar regions have lower humidity and as latitude gets higher,humidity gets higher in southern hemisphere.
 
 - Cloudiness (%) vs. Latitude
 
-  ![cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City_Latitude_vs_Cloudiness.png>)
+  ![cloudiness](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City%20Lat%20vs%20Cloudiness%20.jpg>)
 
 Cloudiness data is widely spread across the latitude.
 
 - Wind Speed (mph) vs. Latitude
 
-  ![wind](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City_Latitude_vs_Wind_Speed(mph).png>)
+  ![wind](<https://github.com/jhamm2315/Hammond-API-Challege-/blob/main/Hammond-API-Challenge/python-api-challenge/Images/City%20Lat%20vs%20Wind%20Speed.jpg>)
 
   Wind speed data is widely spread across the latitude.
 
